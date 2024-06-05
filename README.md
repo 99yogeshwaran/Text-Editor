@@ -1,1 +1,2 @@
 # Text-Editor
+The Java-based Text Editor project provides users with a versatile platform for creating and editing text documents. With features like font selection, bold, italic, underline, text highlighting, and colorizing, users can customize their documents to suit their preferences and needs.
